@@ -1,4 +1,4 @@
 # BarcodeApp
  
-![Screenshot](image1.png)
+![Screenshot](image1.PNG)
 ![Screenshot](image2.png)
